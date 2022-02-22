@@ -33,13 +33,26 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.spoj.easy.PrimeNumbers.Main" />
       <module name="SPOJ_Exercises" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.spoj.easy.PrimeNumbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spoj.easy.TwoDigitsOfFactorial.Main" />
+      <module name="SPOJ_Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spoj.easy.TwoDigitsOfFactorial.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,6 +88,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (1)" />
       </list>
