@@ -33,13 +33,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.spoj.medium.Main" />
-      <module name="NotSoFastMultiplication" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spoj.easy.PrimeNumbers.Main" />
+      <module name="SPOJ_Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.spoj.medium.*" />
+          <option name="PATTERN" value="com.spoj.easy.PrimeNumbers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -47,9 +47,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spoj.medium.NotSoFastMultiplication.Main" />
+      <module name="SPOJ_Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spoj.medium.NotSoFastMultiplication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="SPOJ_Exercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="SPOJ_Exercises" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
